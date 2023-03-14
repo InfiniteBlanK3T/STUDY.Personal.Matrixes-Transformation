@@ -130,6 +130,7 @@
   <ItemGroup>
     <ClCompile Include="..\files\Main.cpp" />
     <ClCompile Include="..\files\Vector2D.cpp" />
+    <ClCompile Include="Matrix3x3.cpp" />
     <ClCompile Include="Vector3D.cpp" />
   </ItemGroup>
   <ItemGroup>
