@@ -10,7 +10,7 @@ Matrix3x3::Matrix3x3() noexcept :
 {}
 
 Matrix3x3::Matrix3x3(const Vector3D& aRow1, const Vector3D& aRow2, const Vector3D& aRow3) noexcept:	
-	fRows{ aRow1, aRow2, aRow3 }
+	fRows{ aRow1, aRow2, aRow3 }	
 {}
 
 Matrix3x3 Matrix3x3::operator*(const float aScalar) const noexcept
