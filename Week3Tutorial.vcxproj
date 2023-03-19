@@ -131,7 +131,9 @@
     <ClCompile Include="..\files\Main.cpp" />
     <ClCompile Include="..\files\Vector2D.cpp" />
     <ClCompile Include="Matrix3x3.cpp" />
+    <ClCompile Include="Matrix3x3solutions.cpp" />
     <ClCompile Include="Vector3D.cpp" />
+    <ClCompile Include="Vector3Dsolutions.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\files\Matrix3x3.h" />
